@@ -1,4 +1,4 @@
-# Shooter-Game
+# Shooter Game :see_no_evil: :hear_no_evil: :speak_no_evil:
 A 2D shooter game made in Python using the pygame library. Tested only for macOS. Upgrade pygame to latest version to use on macOS Big Sur.
 
 
